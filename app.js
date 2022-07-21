@@ -18,10 +18,10 @@
 // var num = Math.round(randomNumber*5);
 // document.write("<h1> Random Dice Value is: " + num + "</h1>");
 // var num = Math.random();
-// var diceNum = Math.round(num * 2);
-// if(diceNum === 2){
+// var dicesValue = Math.round(num * 2);
+// if(dicesValue === 2){
 //     document.write("<h1> Random Dice value is: Heads </h1>");
-// }else if(diceNum === 1){
+// }else if(dicesValue === 1){
 //     document.write("<h1> Random Dice value is: Tails");
 // }
 // var num = Math.random();
@@ -30,10 +30,10 @@
 // document.write("<h1> The weight of user is: " + parseFloat(weight) + " Kg </h1>");
 // var num = Math.random();
 // var userNum = prompt("Enter number between 1 & 10");
-// var secretNum = Math.round(num * 9); 
-// if(secretNum === Number(userNum)){
+// var stellNum = Math.round(num * 9); 
+// if(stellNum === Number(userNum)){
 //     document.write("<h1>  Congratulation </h1>");
 // }else{
-//     document.write("<h1> Please try again");
+//     document.write("<h1> Best luck Next Time");
 // }
-// console.log(secretNum)
+// console.log(stellNum)
